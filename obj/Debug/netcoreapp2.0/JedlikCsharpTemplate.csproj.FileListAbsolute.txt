@@ -1,0 +1,10 @@
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\bin\Debug\netcoreapp2.0\JedlikCsharpTemplate.deps.json
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\bin\Debug\netcoreapp2.0\JedlikCsharpTemplate.runtimeconfig.json
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\bin\Debug\netcoreapp2.0\JedlikCsharpTemplate.runtimeconfig.dev.json
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\bin\Debug\netcoreapp2.0\JedlikCsharpTemplate.dll
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\bin\Debug\netcoreapp2.0\JedlikCsharpTemplate.pdb
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\obj\Debug\netcoreapp2.0\JedlikCsharpTemplate.csproj.CoreCompileInputs.cache
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\obj\Debug\netcoreapp2.0\JedlikCsharpTemplate.AssemblyInfoInputs.cache
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\obj\Debug\netcoreapp2.0\JedlikCsharpTemplate.AssemblyInfo.cs
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\obj\Debug\netcoreapp2.0\JedlikCsharpTemplate.dll
+d:\Dropbox\.NetCore\JedlikCsharpTemplate\obj\Debug\netcoreapp2.0\JedlikCsharpTemplate.pdb
