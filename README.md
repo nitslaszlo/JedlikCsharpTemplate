@@ -32,9 +32,9 @@
    'JedlikCsharpTemplate'. Add them? 
    "Yes" -> .vscode/launch.json + tasks.json létrejön
 7. launch.json szerkesztése:
-   "console": "internalConsole", ->  Belső console ablak, Console.ReadLine() NEM működik
-   "console": "integratedTerminal", -> Belső terminál ablak, Console.ReadLine() működik
-   "console": "externalTerminal", -> Külső console ablak, Console.ReadLine() működik
+   - "console": "internalConsole", ->  Belső console ablak, Console.ReadLine() NEM működik
+   - "console": "integratedTerminal", -> Belső terminál ablak, Console.ReadLine() működik
+   - "console": "externalTerminal", -> Külső console ablak, Console.ReadLine() működik
 8. .gitignore fájl hozzáadása a projekt főkönyvtátába (opcionális):
    "bin" tartalommal (idézőjelek nélkül, nem tölti fel GitHub-ra)
 
@@ -74,8 +74,8 @@
    majd "Initialize Repository"-ra kattint (felül)
 6. Ctrl-Shift-G -> Commit message megadása, majd commit Ctrl-Enter -el
 7. Remote repository megadása új terminál ablakból (Ctr-Shift-ö)
-   "git remote add origin https://github.com/nitslaszlo/JedlikCsharpTemplate.git"
-   "git push -u origin master"
+   - "git remote add origin https://github.com/nitslaszlo/JedlikCsharpTemplate.git"
+   - "git push -u origin master"
 
 ### Fel/le töltés GitHub-ra későbbiekben:
 1. Ctrl-Shift-G -> Commit message megadása, majd commit Ctrl-Enter -el
@@ -86,7 +86,7 @@
 1. Ctrl-Shift-P vagy F1
 2. "Preferen..." gépelése
 3. Preferences: "Open Workplace Settings" a projektben tárolt beállításokhoz (ez az erősebb) vagy
-   Preferences: "Open User Settings" a felasználónált tárolt beállításokhoz
+4. Preferences: "Open User Settings" a felasználónált tárolt beállításokhoz
    Konfig fájl workspace: projekt/.vscode/settings.json
    Konfig fájl user: c:/Users/UserName/AppData/Roaming/Code/User/settings.json
 
