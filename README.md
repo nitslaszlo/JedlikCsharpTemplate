@@ -6,13 +6,13 @@
 2.  Git for windows telepítése (opcionális, git-hez):
     > https://git-for-windows.github.io/
 3.  Visual Studio Code (továbbiakban VSCode) telepítése
-    https://code.visualstudio.com/docs/setup/setup-overview
+    > https://code.visualstudio.com/docs/setup/setup-overview
 4.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X
-    Kiterjesztés keresése, telepítés:
-     - C# for Visual Studio Code (powered by OmniSharp)
-       https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
-     - vscode-pfd
-     (opcionális: további kiterjesztések telepítése igény szerint)
+    > Kiterjesztés keresése, telepítés:
+    > - C# for Visual Studio Code (powered by OmniSharp)
+    >   https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+    > - vscode-pfd
+    > (opcionális: további kiterjesztések telepítése igény szerint)
 5.  Billentyűkombinációk beállítása: 
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S
     Parancs keresése: gépeléssel
