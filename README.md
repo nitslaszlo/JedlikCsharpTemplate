@@ -10,7 +10,7 @@
 4.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X
     > Kiterjesztés keresése, telepítés:
     > - C# for Visual Studio Code (powered by OmniSharp)
-    >   https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+    > - https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
     > - vscode-pfd
     > (opcionális: további kiterjesztések telepítése igény szerint)
 5.  Billentyűkombinációk beállítása: 
