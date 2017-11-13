@@ -47,11 +47,11 @@
     https://docs.microsoft.com/hu-hu/dotnet/core/tutorials/with-visual-studio-code#debug
 
 ## Hasznos linkek:
-https://code.visualstudio.com/docs
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-https://github.com/Microsoft/vscode-tips-and-tricks
-https://git-scm.com/book/en/v2
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
+- https://code.visualstudio.com/docs
+- https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+- https://github.com/Microsoft/vscode-tips-and-tricks
+- https://git-scm.com/book/en/v2
+- https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 ## Verziókezelés Git-el VS Code-ban (nagyon alap, opcionális):
 1. Github account létrehozása:
