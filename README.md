@@ -1,7 +1,7 @@
 # C# .NET Core + Visual Studio Code + GitHub beállítása
 
 ## Fejlesztői környezet telepítése, beállítása
-1.  .NET Core SDK telepítése<br>
+1.  .NET Core SDK telepítése<br/>
     https://microsoft.com/net/core 
 2.  Git for windows telepítése (opcionális, git-hez): 
     https://git-for-windows.github.io/
