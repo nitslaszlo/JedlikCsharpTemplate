@@ -46,14 +46,14 @@
 3.  Futtatás, nyomkövetés: F5-l
     https://docs.microsoft.com/hu-hu/dotnet/core/tutorials/with-visual-studio-code#debug
 
-##Hasznos linkek:
+## Hasznos linkek:
 https://code.visualstudio.com/docs
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 https://github.com/Microsoft/vscode-tips-and-tricks
 https://git-scm.com/book/en/v2
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
-##Verziókezelés Git-el VS Code-ban (nagyon alap, opcionális):
+## Verziókezelés Git-el VS Code-ban (nagyon alap, opcionális):
 1. Github account létrehozása:
    https://github.com/
    (nitslaszlo az account név a példában)
@@ -77,12 +77,12 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
    "git remote add origin https://github.com/nitslaszlo/JedlikCsharpTemplate.git"
    "git push -u origin master"
 
-###Fel/le töltés GitHub-ra későbbiekben:
+### Fel/le töltés GitHub-ra későbbiekben:
 1. Ctrl-Shift-G -> Commit message megadása, majd commit Ctrl-Enter -el
 2. Változások szinkronizálása ("feltöltés")
    Alul a státus sorban balra "Synchronize Changes" -ra kattínt
 
-##VS Code editor beállítása:
+## VS Code editor beállítása:
 1. Ctrl-Shift-P vagy F1
 2. "Preferen..." gépelése
 3. Preferences: "Open Workplace Settings" a projektben tárolt beállításokhoz (ez az erősebb) vagy
