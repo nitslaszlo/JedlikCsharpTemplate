@@ -14,11 +14,11 @@
     > - vscode-pfd
     > (opcionális: további kiterjesztések telepítése igény szerint)
 5.  Billentyűkombinációk beállítása: 
-    File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S
-    Parancs keresése: gépeléssel
-    Hozzárendelés, módosítás: "ceruza" ikonra kattíntással, törlés: Del bill.
-    - gépel: "delete" > parancs: "Delete Line" > hozzárendel: Ctrl-L
-    - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
+    > File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S
+    > Parancs keresése: gépeléssel
+    > Hozzárendelés, módosítás: "ceruza" ikonra kattíntással, törlés: Del bill.
+    > - gépel: "delete" > parancs: "Delete Line" > hozzárendel: Ctrl-L
+    > - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
 6.  Opcionális: VSCode beállítása: lsd. az oldal végén
 
 ## Projekt előkészítése (inicializálása)
@@ -27,10 +27,9 @@
 3. Projekt mappa aktuálissá tétele (pl.: CD JedlikCsharpTemplate)
 4. "dotnet new console" parancs futtatása (idézőjelek nélkül)
 5. VSCode indítása, projekt mappa megnyitása (File\Open Folder...)
-   (első indításkor hosszabban telepít két komponenst)
-6. Warn: Required assets to build and debug are missing from
-   'JedlikCsharpTemplate'. Add them? 
-   "Yes" -> .vscode/launch.json + tasks.json létrejön
+   (az első indításkor hosszabban telepít két komponenst)
+6. Warn:
+    > Required assets to build and debug are missing from 'JedlikCsharpTemplate'. Add them?> "Yes" -> .vscode/launch.json + tasks.json létrejön
 7. launch.json szerkesztése:
    - "console": "internalConsole", ->  Belső console ablak, Console.ReadLine() NEM működik
    - "console": "integratedTerminal", -> Belső terminál ablak, Console.ReadLine() működik
@@ -44,7 +43,7 @@
     VSCode indítása után File/Open Folder... menüpontba a project mappa megnyitása
 2.  Program.cs szerkesztése (át is lehet nevezni)
 3.  Futtatás, nyomkövetés: F5-l
-    https://docs.microsoft.com/hu-hu/dotnet/core/tutorials/with-visual-studio-code#debug
+    > https://docs.microsoft.com/hu-hu/dotnet/core/tutorials/with-visual-studio-code#debug
 
 ## Hasznos linkek:
 - https://code.visualstudio.com/docs
@@ -65,11 +64,11 @@
    git config --global credential.helper wincred
 4. Visual Studio Code indítása - project betöltése
 5. ".gitignore" fájl létrehozása project főkönyvtárban (opcionális):
-    Ctrl-N -el új fájl létrehozása
-    A fájl tartalma:
-    bin
-    (További mappák és fájlok megadhatóak, melyek nem kerülnek "feltöltésre")
-    Ctrl-S -> .gitignore néven menteni a projekt főkönyvtárába
+    > Ctrl-N -el új fájl létrehozása
+    > A fájl tartalma:
+    > bin
+    > (További mappák és fájlok megadhatóak, melyek nem kerülnek "feltöltésre")
+    > Ctrl-S -> .gitignore néven menteni a projekt főkönyvtárába
 5. Git inicializálása a 3. ("Y") ikonnal vagy Ctrl-Shift-G
    majd "Initialize Repository"-ra kattint (felül)
 6. Ctrl-Shift-G -> Commit message megadása, majd commit Ctrl-Enter -el
