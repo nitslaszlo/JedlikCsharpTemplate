@@ -35,7 +35,7 @@
    - "console": "internalConsole", ->  Belső console ablak, Console.ReadLine() NEM működik
    - "console": "integratedTerminal", -> Belső terminál ablak, Console.ReadLine() működik
    - "console": "externalTerminal", -> Külső console ablak, Console.ReadLine() működik
-8. .gitignore fájl hozzáadása a projekt főkönyvtátába (opcionális):
+8. ".gitignore" fájl hozzáadása a projekt főkönyvtárába (opcionális):
    "bin" tartalommal (idézőjelek nélkül, nem tölti fel a mappát GitHub-ra)
 
 ## Fejlesztés, tesztelés
@@ -80,12 +80,12 @@
 ### Fel/le töltés GitHub-ra későbbiekben:
 1. Ctrl-Shift-G -> Commit message megadása, majd commit Ctrl-Enter -el
 2. Változások szinkronizálása ("feltöltés")<br>
-   Alul a státus sorban balra "Synchronize Changes" -ra kattínt
+   Alul a státus sorban balra "Synchronize Changes" -ra kattint
 
 ## VS Code editor beállítása:
 1. Ctrl-Shift-P vagy F1
 2. "Preferen..." gépelése
 3. Preferences: "Open Workplace Settings" a projektben tárolt beállításokhoz (ez az erősebb) vagy
-4. Preferences: "Open User Settings" a felasználónált tárolt beállításokhoz<br>
+4. Preferences: "Open User Settings" a felhasználónált tárolt beállításokhoz<br>
    Konfig fájl workspace: projekt/.vscode/settings.json<br>
    Konfig fájl user: c:/Users/UserName/AppData/Roaming/Code/User/settings.json
