@@ -35,7 +35,11 @@ https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-using-CSharp-and
 3. Projekt mappa aktuálissá tétele (pl.: CD JedlikCsharpTemplate)
 4. "dotnet new console" parancs futtatása (idézőjelek nélkül)
 5. VSCode indítása, projekt mappa megnyitása (File\Open Folder...)<br>
-   (az első indításkor hosszabban telepít két komponenst)
+   Az első indításkor hosszabban telepít két komponenst:<br>
+   > Updating C# dependencies...
+   > Platform: win32, x86_64
+   > Downloading package 'OmniSharp for Windows (.NET 4.6 / x64)' (20731 KB) ...... Done!
+   > Downloading package '.NET Core Debugger (Windows / x64)' (39233 KB)..... Done!
 6. Warn: Required assets to build and debug are missing<br>
    from 'JedlikCsharpTemplate'. Add them?<br>
    "Yes" -> .vscode/launch.json + tasks.json létrejön
