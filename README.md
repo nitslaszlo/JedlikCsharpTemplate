@@ -26,7 +26,7 @@
 2. CMD.EXE (Parancssor futtatása)
 3. Projekt mappa aktuálissá tétele (pl.: CD JedlikCsharpTemplate)
 4. "dotnet new console" parancs futtatása (idézőjelek nélkül)
-5. VSCode indítása, projekt mappa megnyitása (File\Open Folder...)
+5. VSCode indítása, projekt mappa megnyitása (File\Open Folder...)<br>
    (az első indításkor hosszabban telepít két komponenst)
 6. Warn: Required assets to build and debug are missing<br>
    from 'JedlikCsharpTemplate'. Add them?<br>
