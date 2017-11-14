@@ -21,6 +21,14 @@
      - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
 6.  Opcionális: VSCode beállítása: lsd. az oldal végén
 
+Video Windows:<br>
+https://channel9.msdn.com/Blogs/dotnet/Get-started-VSCode-Csharp-NET-Core-Windows
+Video Linux:<br>
+https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-Csharp-dotnet-Core-Ubuntu
+Video Mac:<br>
+https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-using-CSharp-and-NET-Core-on-MacOS
+
+
 ## Projekt előkészítése (inicializálása)
 1. Projekt mappa létrehozása (pl.: JedlikCsharpTemplate)
 2. CMD.EXE (Parancssor futtatása)
