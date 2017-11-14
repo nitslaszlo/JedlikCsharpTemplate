@@ -35,7 +35,7 @@
    - "console": "internalConsole", ->  Belső console ablak, Console.ReadLine() NEM működik
    - "console": "integratedTerminal", -> Belső terminál ablak, Console.ReadLine() működik
    - "console": "externalTerminal", -> Külső console ablak, Console.ReadLine() működik
-8. .gitignore fájl hozzáadása a projekt főkönyvtátába (opcionális):<br>
+8. .gitignore fájl hozzáadása a projekt főkönyvtátába (opcionális):
    "bin" tartalommal (idézőjelek nélkül, nem tölti fel a mappát GitHub-ra)
 
 ## Fejlesztés, tesztelés
@@ -89,8 +89,3 @@
 4. Preferences: "Open User Settings" a felasználónált tárolt beállításokhoz<br>
    Konfig fájl workspace: projekt/.vscode/settings.json<br>
    Konfig fájl user: c:/Users/UserName/AppData/Roaming/Code/User/settings.json
-
-
-
-
-
