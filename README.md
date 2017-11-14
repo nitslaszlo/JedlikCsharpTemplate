@@ -35,7 +35,7 @@
    - "console": "internalConsole", ->  Belső console ablak, Console.ReadLine() NEM működik
    - "console": "integratedTerminal", -> Belső terminál ablak, Console.ReadLine() működik
    - "console": "externalTerminal", -> Külső console ablak, Console.ReadLine() működik
-8. .gitignore fájl hozzáadása a projekt főkönyvtátába (opcionális):
+8. .gitignore fájl hozzáadása a projekt főkönyvtátába (opcionális):<br>
    "bin" tartalommal (idézőjelek nélkül, nem tölti fel a mappát GitHub-ra)
 
 ## Fejlesztés, tesztelés
